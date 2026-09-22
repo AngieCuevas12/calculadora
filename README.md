@@ -1,4 +1,4 @@
-# Calculadora 
+# Calculadora
 
 Calculadora para Android hecha en **Kotlin** con **Android Studio**.
 
